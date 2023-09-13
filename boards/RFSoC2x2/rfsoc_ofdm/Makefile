@@ -1,4 +1,4 @@
-VIVADO_PATH=./
+VIVADO_PATH=
 
 all: bitstream clean
 
